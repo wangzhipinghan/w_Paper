@@ -1,15 +1,28 @@
 # w_Paper
-Practice the usual usage of mouse buttons in the application
+文本文件中的字段自由移动与标记
+
+# Features:
+
+1.多栏文字显示，黑板显示；
+
+2.文字块自由移动范围大；
+
+3.使用普通文本文件，不要修改文件内容； (ANSI)
+
+4.操作简单，按按钮提示就可以；
+
+5.文字自由缩放，无边框；
+
+6.简单的思维导向连接和调整无边界，拉伸线增减；
+
+7.背景调整，对比度变化；
+
+8.全窗涂鸦消除，小矩形、小圆圈添加和消除；
 
 
-Features:
 
-0. Multi-column text display, blackboard display;
-1. Large free moving range of the text block;
-2. Use ordinary text files, and do not modify the content of the file; (ANSI)
-3. Free text zoom, no borders;
-4. Simple thinking-oriented connection and adjustment have no boundaries, and stretch lines are added and eliminated;
-5. Background adjustment with changing contrast;
-6. Full window graffiti and elimination, small rectangle, small circle to add and eliminate;
-7. No need to install, just copy it to the computer, no need to delete files.
+# 安装
+无需安装，只需解压包文件复制到电脑即可，没有注册残留。
 
+# 注意
+移动行或段时，应将鼠标置于绿色右端顶格后拖动。这样的原因是防止重叠字段的误操作。
