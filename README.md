@@ -30,7 +30,7 @@
 # 免费使用与捐赠
 感谢用户使用本应用，如果您有提议或者捐赠请留言，帮助本应用改进和维护。包中有感谢捐赠的二维码。捐赠将尽可能记录，如果需要可以优先推送最新的功能和应用。
 https://gitee.com/wPaper/w_Paper/blob/Textmove/%E4%B8%BB%E8%A6%81%E9%80%9A%E9%81%93/%E6%84%9F%E8%B0%A2%E6%8D%90%E8%B5%A0.jpg
-![感谢捐赠]
+![感谢捐赠](https://gitee.com/wPaper/w_Paper/blob/Textmove/%E4%B8%BB%E8%A6%81%E9%80%9A%E9%81%93/%E6%84%9F%E8%B0%A2%E6%8D%90%E8%B5%A0.jpg)
 
 # 感谢用户
 
